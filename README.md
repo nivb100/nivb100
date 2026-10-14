@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Algorithm Engineer Banner](banner.jpg)
+![Algorithm Engineer Banner](banner.jpg#width=75%#height=75%)
 
 <!--
 **nivb100/nivb100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
