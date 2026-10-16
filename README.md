@@ -1,6 +1,6 @@
 # Hi there, I'm Niv! 👋
 
-![Algorithm Engineer Banner](banner.jpg)
+![Algorithm Engineer Banner](Images/banner.jpg)
 
 ## About Me 🚀
 
@@ -16,17 +16,19 @@ I'm a motivated varied **[Electrical Engineer]** who strives for finding the nex
 
 ### 🛠️ Languages & Tools
 
-![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
-![NumPy](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png)
-![Nengo](./Images/nengo.png)
-![PyTorch](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png)
-![C++](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png)
-![C](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png)
-![MATLAB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png)
-![GitHub Copilot](./Images/github_copilot.png)
-![VSCode](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
-![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
-![SystemVerilog](./Images/SystemVerilog.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" height="40" />
+  <img src="./Images/nengo.png" alt="Nengo" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" alt="PyTorch" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" height="40" />
+  <img src="./Images/github_copilot.png" alt="GitHub Copilot" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" height="40" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" height="40" />
+  <img src="./Images/SystemVerilog.png" alt="SystemVerilog" height="40" />
+</p>
 
 ### 🔬 Domains & Research
 ![Digital Signal Processing](https://img.shields.io/badge/Digital_Signal_Processing-008080?style=for-the-badge)
