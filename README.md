@@ -41,7 +41,7 @@ I'm a motivated varied **[Electrical Engineer]** who strives for finding the nex
 
 ![Project 1 Screenshot](./Images/Conv_Code_Project_Infographics.jpg)
 
-**[Convolutional Codes and Viterbi Decoding]** is a **[Error Correction Codes Project]** built with **[Python and Numpy]**. This project demonstrates my ability to **[Coding Theory, Python Coding and Theoretical Analysis]**.
+**Convolutional Codes and Viterbi Decoding** is a **Error Correction Codes Project** built with **Python and Numpy**. This project demonstrates my ability in **Coding Theory, Python Coding and Theoretical Analysis**. I invite you to get more impression in the link above of the project.
 
 
 
