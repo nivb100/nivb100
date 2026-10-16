@@ -23,11 +23,11 @@ I'm a motivated varied **Electrical Engineer** who strives for finding the next 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB" height="50" />
   <img src="./Images/github_copilot.png" alt="GitHub Copilot" title="GitHub Copilot" height="50" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" title="VSCode" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git" height="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" title="VSCode" height="50" />
   <img src="./Images/SystemVerilog.png" alt="SystemVerilog" title="SystemVerilog" height="50" />
 </p>
-
 
 ### 🔬 Domains & Research
 ![Digital Signal Processing](https://img.shields.io/badge/Digital_Signal_Processing-008080?style=for-the-badge)
