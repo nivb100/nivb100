@@ -10,7 +10,7 @@ I'm a motivated varied **Electrical Engineer** who strives for finding the next 
 - 🔭 Working on        : **Convolution Codes**
 - 🌍 Languages         : **Python**
 - 📫 How to reach me   : **benharoshn@gmail.com**
-- ⚡ Fun fact          : **Like Math Videos and worked for 5.5 Years as Harware Verification Engineer**
+- ⚡ Fun fact          : **Likes Math and worked for 5.5 Years as Harware Verification Engineer**
 
 ### 🛠️ Languages & Tools
 
