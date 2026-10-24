@@ -38,7 +38,7 @@ I'm a motivated varied **Electrical Engineer** who strives for finding the next 
 
 ## Featured Projects 💻
 
-### [Convolutional Codes and Viterbi Decoding](https://github.com/nivb100/Convolution_Codes)
+### [Convolutional Codes and Viterbi Decoding](https://github.com/nivb100/Convolution_Codes) (October 2026)
 
 ![Project 1 Screenshot](./Images/Conv_Code_Project_Infographics.jpg)
 
